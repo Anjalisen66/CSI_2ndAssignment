@@ -27,6 +27,8 @@ h1 {
   font-size: 1.75rem;
 }
 
+
+
 .TodoWrapper {
   background: #343434;
   margin-top: 5rem;
@@ -50,9 +52,10 @@ h1 {
   color: #fff;
 }
 
-.todo-input::placeholder {
-  color: #ffffff4d;
-}
+/*  */
+
+
+
 
 .addtask-btn {
   background: #ffffff;
@@ -75,6 +78,11 @@ h1 {
   margin-bottom: 1rem;
 }
 
+/* .Todo-task-list:hover{
+  background-color: white;
+  color:#343434;
+} */
+
 .fa-trash {
   margin-left: 0.75rem;
 }
@@ -82,6 +90,17 @@ h1 {
 .incompleted {
   color: #fff;
   cursor: pointer;
+}
+
+.delete-icon:hover{
+  color: rgb(240, 37, 78);
+}
+
+
+
+
+.edit-icon:hover{
+  color: rgb(238, 161, 67);
 }
 
 .completed {
