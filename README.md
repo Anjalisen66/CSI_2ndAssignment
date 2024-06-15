@@ -7,7 +7,7 @@
 - now you can create, update and delete the tasks and can use TODO-LIST to test its functionality.
 
 
-- TODO LIST image
+- TODO LIST
 
 - Add a new task
    - create a new task by writing the task in input box and clicking the Add task button.
